@@ -4,7 +4,7 @@
 <p>Dante doit voyager à travers l'Enfer, un endroit complètement labyrinthique. Ici, nous allons générer des labyrinthes, trouver
 le chemin de sortie et essayez de le faire aussi vite que possible.</p>
 <p>Le projet est divisé en neuf sections, qui représentent les neuf cercles de l'Enfer que Dante doit traverser pour atteindre le purgatoire.</p>
-<p>Le but de ce projet est de générer des labyrinthes (en un temps raisonnable), de les résoudre (en un temps raisonnable durée) et imprimez la solution.</p>
+<p>Le but de ce projet est de générer des labyrinthes (en un temps raisonnable), de les résoudre (en un temps raisonnable) et imprimez la solution.</p>
 <br></br>
 <div align="center">
 <img src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSOPI0cWta6ang1l-KbvEbWEblFaAmmE1_9CJKowWyh8n9perCe" height=60 align="center">
